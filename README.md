@@ -13,4 +13,4 @@ This is a portfolio of all my Machine learning projects. I constantly update thi
 * Google Machine learning Crash course: https://developers.google.com/machine-learning/crash-course
 * Kaggle: http://www.kaggle.com
 
-Follow me on ![Twitter](https://github.com/NotaNewbieCoder/Machine_learning/blob/master/twitter%20icon.png "Twitter") : [@pucadopr](https://www.twitter.com/pucadopr)
+Follow me on ![Twitter](https://github.com/NotaNewbieCoder/Machine_learning/blob/master/twitter%20icon.png "Twitter") : [@Pucadopr](https://www.twitter.com/pucadopr)
