@@ -6,7 +6,7 @@
 ![spark 1.8](https://img.shields.io/badge/spark-2.3-yellow.svg)
 
 
-This is a portfolio of all my Machine learning projects. I constantly update this repository as I continue on my learning process. I mostly use python 3.6 for the projects.
+This is a portfolio of all my Machine learning projects. I constantly update this repository as I continue on my learning process. I mostly use python 3.6 for my projects.
 
 ## Useful Links for Machine Learning
 * Machine learning: https://en.wikipedia.org/wiki/Machine_learning
